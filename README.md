@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi! I'm Dario Ramirez, from Asunción- Paraguay.
-🔭 I’m currently working on SAP B, SQL and Hana version. 
+
+🔭 I’m currently working on SAP B, SQL and Hana version.
+
 🌱 I’m currently learning about Web Develoment.
+
 📫 How to reach me: r.dario@outlook.com
