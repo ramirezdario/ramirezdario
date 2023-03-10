@@ -18,6 +18,6 @@ Hi! I'm Dario Ramirez, from Asunción- Paraguay.
 
 🔭 I’m currently working on SAP B, SQL and Hana version.
 
-🌱 I’m currently learning about Python.
+🌱 I’m currently learning about Python and C#.
 
 📫 How to reach me: r.dario@outlook.com
